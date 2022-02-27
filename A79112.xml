@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties speech to the inhabitants of Denbigh and Flint-shire. 27. Septemb. 1642.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79112</idno>
+            <idno type="STC">Wing C2810</idno>
+            <idno type="STC">Thomason E200_61</idno>
+            <idno type="STC">ESTC R14641</idno>
+            <idno type="EEBO-CITATION">99859710</idno>
+            <idno type="PROQUEST">99859710</idno>
+            <idno type="VID">157594</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79112)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157594)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E200[61])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties speech to the inhabitants of Denbigh and Flint-shire. 27. Septemb. 1642.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. L.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Octob: 12.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Speeches, addresses, etc., English --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157594:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 97 -->
+            <p>HIS MAJESTIES SPEECH TO The Inhabitants of <hi>Denbigh</hi> and <hi>Flint</hi>-ſhire. 27. <hi>Septemb.</hi> 1642.</p>
+            <p>LONDON, Printed for <hi>R.L.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:157594:2"/>
+            <!-- PDF PAGE 98 -->
+            <pb n="1" facs="tcp:157594:2"/>
+            <!-- PDF PAGE 98 -->
+            <head>His Majeſties Speech to the In<g ref="char:EOLhyphen"/>habitants of <hi>Denbigh</hi> and <hi>Flint</hi>-ſhire,</head>
+            <opener>
+               <dateline>
+                  <date>27. <hi>Septemb.</hi> 1642.</date>
+               </dateline>
+            </opener>
+            <opener>
+               <salute>GENTLEMEN</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am willing to take all oc<g ref="char:EOLhyphen"/>caſions to viſit all my good Subjects, in which number I have cauſe to reckon you of theſe two Counties, and having lately had a good ex<g ref="char:EOLhyphen"/>preſſion of your loyalty &amp; affections to me by thoſe Levies which at your chargé have been ſent me from your parts (which for<g ref="char:EOLhyphen"/>wardneſſe of yours, I ſhall alwayes remem<g ref="char:EOLhyphen"/>ber to your advantage) and to let you know how I have been dealt with by a powerfull malignant party in this Kingdome, whoſe Deſignes are no leſſe then to deſtroy my per<g ref="char:EOLhyphen"/>ſon and Crowne, the Lawes of the Land, and the preſent government both of Church and State, The Leaders of theſe
+<pb facs="tcp:157594:3"/>
+               <!-- PDF PAGE 99 -->
+               <pb n="1" facs="tcp:157594:3"/>
+               <!-- PDF PAGE 99 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:157594:4"/>
+               <!-- PDF PAGE 100 -->men by their ſubtilty and cunning practiſes have ſo prevailed upon the meaner ſort of people about <hi>London,</hi> that they have called them up into frequent and dangerous tu<g ref="char:EOLhyphen"/>mults, and thereby have chaſed from thence my ſelfe, and the Greateſt part of the Mem<g ref="char:EOLhyphen"/>bers of both Houſes of Parliament; Their power and ſecret plots have had ſuch influ<g ref="char:EOLhyphen"/>ence upon the ſmall remaining part of both Houſes, that under colour of orders and Or<g ref="char:EOLhyphen"/>dinances made without the Royall aſſent (a thing never heard of before this Parliament) I am rob'd and ſpoyled of my Townes, Forts, Caſtles, and Goods, my Navy forcea<g ref="char:EOLunhyphen"/>bly taken from me, and employed againſt me, all my Revenue is ſtopt and ſeized upon, and at this time a powerfull Army is march<g ref="char:EOLhyphen"/>ing againſt me. I wiſh this were all; They have yet further I boured to alienate the af<g ref="char:EOLhyphen"/>fections of my good People, they have moſt iniuriouſly vented many falſe reproaches a<g ref="char:EOLhyphen"/>gainſt my perſon and Government, they have diſperſed in Print many notorious falſe ſcandals upon my actions and intentions, and in particular have laboured to caſt upon
+<pb n="3" facs="tcp:157594:4"/>
+               <!-- PDF PAGE 100 -->me ſome aſperſions concerning the horrid bloody, and impious rebellion in <hi>Ireland.</hi> They tell the people that I have recalled two ſhips appointed for the Guard of theſe Seas, 'tis true: but they conceale that at the ſame time I ſent my Warrants to the Downs com<g ref="char:EOLhyphen"/>manding foure as good ſhips to attend that ſervice in ſtead of thoſe ſhould be recalled, which Warrant by their means could not find obedience. They forget that they then imployed 40 ſhips (many of them my own, &amp; all of them, ſet forth at the publick charge of this and that Kingdome) to rob &amp; pillage me of my goods, to chaſe my good ſubjects and maintain my own Town of <hi>Hull</hi> a<g ref="char:EOLhyphen"/>gainſt me. And that by the abſence of thoſe ſhips from the Iriſh Seas, the Rebels have had opportunity to bring ſtore of Armes, Ammunition, and ſupplies to their ſuccours (to which we may juſtly impute the cala<g ref="char:EOLhyphen"/>mities, which have overwhelmed my poore Proteſtant ſubjects there) They cry out up<g ref="char:EOLhyphen"/>on a few ſuits of cloathes appointed (as they ſay) for <hi>Ireland,</hi> which ſome of my Forces took, but conceale that they were taken as
+<pb n="4" facs="tcp:157594:5"/>
+               <!-- PDF PAGE 101 -->entring into <hi>Conventry</hi> (then in open rebellion againſt me) where I had reaſon to beleeve they would have been diſpoſed of amongſt their Souldiers who t<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en bore armes againſt me: they talk of a few horſes which I have made uſe of for my carriages (concealing that they were certified to the uſeleſſe for the ſer<g ref="char:EOLhyphen"/>vice of <hi>Ireland</hi>) when they themſelves have ſeized 100000 pounds particularly appoin<g ref="char:EOLhyphen"/>ted by act of Parliament for the relief of <hi>Ire<g ref="char:EOLhyphen"/>land</hi> (where my army is ready to periſh for want of it) and imployed it (together with ſuch part of the 400000 pounds ſubſidy as they have received) to maintain an unnatu<g ref="char:EOLhyphen"/>rall civill warre at home. Neither have they uſed their fellow Subjects better then they have done me their King. By their power the law of the land (your birth right) is trampled upon and in ſtead thereof they go<g ref="char:EOLhyphen"/>vern my people by votes, and arbitrary or<g ref="char:EOLhyphen"/>ders. Such as will not ſubmit to their unjuſt unlimited power are impriſoned, plundred, and deſtroyed, ſuch as will not pay ſuch ex<g ref="char:EOLhyphen"/>actions as they require towards this rebelli<g ref="char:EOLhyphen"/>on are threatned to be put out of Protection
+<pb n="5" facs="tcp:157594:5"/>
+               <!-- PDF PAGE 101 -->(as they call it) of the Parliament, ſuch as conſcienciouſly remember their duty and loyalty to me their Soveraigne are reviled, perſecuted, and declared traytours, ſuch as do deſire to maintain the true Proteſtant Reli<g ref="char:EOLhyphen"/>gion, as it is eſtabliſhed by the Lawes of the Land are traduced and called Popiſh, and ſu<g ref="char:EOLhyphen"/>perſtitious; And on the contrary ſuch as are known Browniſts, Anabaptiſts, and pub<g ref="char:EOLhyphen"/>lick depravers of the Booke of Common Prayer, or countenanced and encouraged. They exact, and receive Tunnage, and poun<g ref="char:EOLhyphen"/>dage, and other great duties upon merchan<g ref="char:EOLhyphen"/>dizes, not onely without law, but in the face of an Act of Parliament to the contrary, paſt this preſent Parliament, which puts all men into the condition of a <hi>Praemunire</hi> that ſhall preſume ſo to oppreſſe the People. If you de<g ref="char:EOLhyphen"/>ſire to know who are the contrivers of theſe wicked deſignes you ſhall find ſome of their names in particular and their actions at large in my declaration of the twelfth of <hi>Auguſt</hi> (to which I ſhall referr you) I wiſh thir craft and power were not ſuch, that few of thoſe
+<pb n="6" facs="tcp:157594:6"/>
+               <!-- PDF PAGE 102 -->copies can come to the view of my good people; ſince that time theſe men ſo thirſt af<g ref="char:EOLhyphen"/>ter the deſtruction of this kingdome, that they have prevailed to make all my offers of Treatie (which might bring peace to this kingdome, and begett a good underſtanding between me and my Parliament) fruitleſſe. In this diſtreſſe into which theſe men have brought mee, and this kingdome, my Con<g ref="char:EOLhyphen"/>fidence is in the Protection of Almightie God, and the affections of my good People, and that you may cleerely ſee what my reſo<g ref="char:EOLhyphen"/>lution lately taken to be read to you, And I deſire that the Sheriffs of theſe two Coun<g ref="char:EOLhyphen"/>ties wil diſpoſe Copies of that and what I now deliver unto you, haveing noe other way to make it publique; theſe men haveing reſtrained the uſe of my preſſes at <hi>London</hi> and the vniverſities.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
